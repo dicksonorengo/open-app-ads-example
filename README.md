@@ -1,6 +1,10 @@
 # open-app-ads-example
 What is App Open AD?
 This is a new AD type that we can show to users when he minimises our app and comes back. An ad format that appears when users open or switches back to your app. Ad overlays the loading screen.
+[Download full project here ](url)
+[Download app to check](https://github.com/dicksonorengo/open-app-ads-example/raw/main/My%20application.apk)
+
+
 # How to implement this open app Ad.
 # Step 1
 Add the following dependency  it should be ≥19.4.0
